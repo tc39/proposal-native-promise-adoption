@@ -6,7 +6,7 @@ ECMAScript proposal for adopting the state of native promises without using thei
 
 [The TC39 Process](https://tc39.es/process-document/)
 
-**Stage**: 0
+**Stage**: 1
 
 **Champions**:
 - Mathieu Hofman ([@mhofman](https://github.com/mhofman)) (Agoric)
